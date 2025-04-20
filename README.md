@@ -1,0 +1,2 @@
+# PiekluvesDarbs
+Eksāmena piekļuves darbs
